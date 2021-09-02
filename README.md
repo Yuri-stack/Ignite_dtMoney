@@ -1,46 +1,112 @@
-# Getting Started with Create React App
+<h1 align="center">
+	<img src="public/home.png"  alt="Home"  width="240"><br><br>
+    dtMoney
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div>
+    <p align="center">
+    <a href="https://www.linkedin.com/in/yuri-silva99/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=Author&message=Yuri&color=00ba6d&style=for-the-badge&logo=LinkedIn" alt="Author: Yuri">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/static/v1?label=Language&message=Typescript&color=blue&style=for-the-badge&logo=Typescript" alt="Language: Typescript">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/static/v1?label=Language&message=Javascript&color=yellow&style=for-the-badge&logo=JavaScript" alt="Language: Javascript">
+    </a>
+  <br>
+  <a href="#">
+		<img src="https://img.shields.io/static/v1?label=framework&message=React&color=61DBFB&style=for-the-badge&logo=React" alt="Language: React">
+	</a>
+    <a href="#">
+        <img src="https://img.shields.io/static/v1?label=Language&message=SASS&color=ff69b4&style=for-the-badge&logo=SASS" alt="Language: SASS">
+    </a>
+    </p>
+</div>
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+<p align="center">
+ <a href="#about">About</a> •
+ <a href="#features">Features</a> •
+ <a href="#revised-concepts">Revised Concepts</a> • 
+ <a href="#installation">Installation</a> • 
+ <a href="#getting-started">Get Started</a> • 
+ <a href="#technologies">Technologies</a> • 
+ <a href="#license">License</a>
+</p>
 
-### `yarn start`
+## 📌About
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<div>
+    <p align="center">
+dtMoney is an application developed with the aim of creating a platform that helps you to control your finances.
+    </p>
+</div>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🚀Features
 
-### `yarn test`
+- Financial Dashboard
+- Insertion of Expenses and Profits
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 👓Revised Concepts
 
-### `yarn build`
+- Typing JS with Typescript
+- Styling the app with Sass/Typescript
+- React Fundaments (Hooks, Componentization, Context)
+- React Modal
+- API consumption with MirageJS and Axios
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📕Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**You must have already installed**
+- [Node.js](https://nodejs.org/en/)
+- [Npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Recommendations**
+-   It is recommended that you have installed Google Chrome or Edge
+-   I recommend using VSCode as development IDE
 
-### `yarn eject`
+**Let's divide it into 2 steps.**
+1. Clone this repository
+2. Install dependencies
+  ---
+### 1. Clone this repository
+```
+git clone https://github.com/Yuri-stack/Ignite_dtMoney.git
+```
+---
+### 2. Install the dependencies
+```
+npm install
+```
+or
+```
+yarn
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+*Make sure your internet is stable, as this may take a while* 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🎮Getting Started
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+1. Run the project
+```
+yarn start
+```
+2. Now, open your browser and navigate to: http://localhost:3000
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 🌐Technologies
 
-## Learn More
+- [React ](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Mirage JS](https://miragejs.com/)
+- [ Axios Docs](https://axios-http.com/docs/intro)
+- [Sass](https://sass-lang.com/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📝License
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Released in 2021.
+
+This project is under the [MIT license](https://github.com/Yuri-stack/Ignite_dtMoney/blob/main/LICENSE)
+
+Made with love by [Yuri Oliveira](https://github.com/Yuri-stack) 🚀
