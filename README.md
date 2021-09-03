@@ -1,9 +1,12 @@
 <h1 align="center">
-	<img src="public/home.png"  alt="Home"  width="240"><br><br>
-    dtMoney
+    <img src="src/assets/logo.svg"  alt="Logo"  width="500"><br><br>
 </h1>
 
 <div>
+    <div>
+	    <img src="public/home.png"  alt="Home"  width="480">
+	    <img src="public/modal.png"  alt="Home with Modal Opened"  width="480"><br><br>
+    </div>
     <p align="center">
     <a href="https://www.linkedin.com/in/yuri-silva99/" target="_blank">
         <img src="https://img.shields.io/static/v1?label=Author&message=Yuri&color=00ba6d&style=for-the-badge&logo=LinkedIn" alt="Author: Yuri">
@@ -100,7 +103,7 @@ yarn start
 - [React ](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Mirage JS](https://miragejs.com/)
-- [ Axios Docs](https://axios-http.com/docs/intro)
+- [Axios Docs](https://axios-http.com/docs/intro)
 - [Sass](https://sass-lang.com/)
 
 ## 📝License
