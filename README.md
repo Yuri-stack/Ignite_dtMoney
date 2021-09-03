@@ -4,8 +4,8 @@
 
 <div>
     <div>
-	    <img src="public/home.png"  alt="Home"  width="480">
-	    <img src="public/modal.png"  alt="Home with Modal Opened"  width="480"><br><br>
+	    <img src="public/home.png"  alt="Home"  width="460">
+	    <img src="public/modal.png"  alt="Home with Modal Opened" width="460"><br><br>
     </div>
     <p align="center">
     <a href="https://www.linkedin.com/in/yuri-silva99/" target="_blank">
